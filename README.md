@@ -15,4 +15,4 @@ This data set contains the following information:
 I'm assuming this is public data, so use it as you please. Aggregated as
 part of a hackathon conducted by Gramener.
 
-http://cl.ly/image/3O0w0K2f3e3k/fifa-dashboard.png
+![](http:://cl.ly/image/3O0w0K2f3e3k/fifa-dashboard.png)
